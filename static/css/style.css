@@ -8,6 +8,7 @@
 body {
     background-color: #f4f4f4;
     color: #222;
+    padding:0px 80px 0px 80px;
 }
 
 /* Header */
@@ -211,18 +212,18 @@ body {
 }
 
 .promo-title {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     line-height: 1.4;
     color: #1a1a1a;
 }
 
 .promo-title span {
-    color: #7e57c2;
+    color: #fcfcfc;
 }
 
 .promo-subtitle {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: bold;
     line-height: 1.4;
     color: #1a1a1a;
@@ -239,10 +240,11 @@ body {
     left: 0;
     right: 0;
     background: rgba(255, 255, 255, 0.95);
-    border-top: 2px solid #333;
+    border: 2px solid #333;
     padding: 12px 24px;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.15);
     z-index: 1000;
+    margin:0px 80px 0px 80px;
 }
 
 .cookies-content {
