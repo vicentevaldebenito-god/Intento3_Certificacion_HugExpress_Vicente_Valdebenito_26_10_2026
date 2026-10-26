@@ -1,0 +1,14 @@
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+# Archivos de editores
+.vscode/
+.idea/
+# Archivos de configuración con información privada
+.env
+.env.*
+# Archivos temporales y logs
+*.log
+*.tmp
+# Carpeta de control de versiones
+.git/
